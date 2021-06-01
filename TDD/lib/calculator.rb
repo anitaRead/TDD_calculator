@@ -1,4 +1,4 @@
-# Create a calculator class - we can even TDD this!
+# Create a calculator class
 # set up test - think about what behaviour/functionality you are trying to test.
 #  test drive a method that sums 2 numbers
 #  test drive a method that subtract 2 numbers
